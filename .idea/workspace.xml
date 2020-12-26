@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9da04d47-acb1-412a-884e-2d89da2dfe1c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+  </component>
+  <component name="Git.Update.Project.Info.Tabs.Properties">
+    <option name="FILTERS">
+      <map>
+        <entry key="structure">
+          <value>
+            <list>
+              <option value="file:$PROJECT_DIR$/Cluster.csv" />
+              <option value="file:$PROJECT_DIR$/Menu.py" />
+              <option value="file:$PROJECT_DIR$/cerist.png" />
+              <option value="file:$PROJECT_DIR$/main.py" />
+              <option value="file:$PROJECT_DIR$/avril2919.csv" />
+              <option value="file:$PROJECT_DIR$/matrice.csv" />
+              <option value="dir:C:/Users/TRETEC/PycharmProjects/Stage_Code/venv" />
+              <option value="dir:C:/Users/TRETEC/PycharmProjects/Stage_Code/.idea" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="d788b603-0bef-4fb0-82ef-dbd4b03d724b" />
+  <component name="ProjectId" id="1kymnyso9Wx68k16C04gdLZhwal" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\TRETEC\PycharmProjects\projet1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Menu">
+    <configuration name="Menu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="projet1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Menu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tkinter_Data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="projet1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tkinter_Data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="projet1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testtt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="projet1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testtt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tst" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="projet1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tst.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Menu" />
+        <item itemvalue="Python.testtt" />
+        <item itemvalue="Python.tst" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.Tkinter_Data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9da04d47-acb1-412a-884e-2d89da2dfe1c" name="Default Changelist" comment="" />
+      <created>1606681375825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606681375825</updated>
+      <workItem from="1606681379024" duration="12902000" />
+      <workItem from="1606722072228" duration="8506000" />
+      <workItem from="1606738700246" duration="1916000" />
+      <workItem from="1606759386699" duration="642000" />
+      <workItem from="1606844686552" duration="2549000" />
+      <workItem from="1607022595412" duration="1735000" />
+      <workItem from="1607061346808" duration="40915000" />
+      <workItem from="1607115092777" duration="1276000" />
+      <workItem from="1607349069674" duration="616000" />
+      <workItem from="1607514489909" duration="47000" />
+      <workItem from="1608930419142" duration="3350000" />
+      <workItem from="1608966527032" duration="985000" />
+      <workItem from="1608976236853" duration="7727000" />
+      <workItem from="1608984238679" duration="39000" />
+      <workItem from="1608986543458" duration="4991000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Paths">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="file:$PROJECT_DIR$/Cluster.csv" />
+                  <option value="file:$PROJECT_DIR$/Menu.py" />
+                  <option value="file:$PROJECT_DIR$/cerist.png" />
+                  <option value="file:$PROJECT_DIR$/main.py" />
+                  <option value="file:$PROJECT_DIR$/avril2919.csv" />
+                  <option value="file:$PROJECT_DIR$/matrice.csv" />
+                  <option value="dir:C:/Users/TRETEC/PycharmProjects/Stage_Code/venv" />
+                  <option value="dir:C:/Users/TRETEC/PycharmProjects/Stage_Code/.idea" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Inspections" timestamp="1606684425122">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1606684425122" />
+    <state x="387" y="145" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607075553908">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="387" y="145" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1607075553908" />
+    <state x="420" y="96" key="FileChooserDialogImpl" timestamp="1608991229407">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="420" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1608991229407" />
+    <state x="514" y="235" width="258" height="210" key="Github.ShareDialog" timestamp="1608991339416">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="514" y="235" width="258" height="210" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1608991339416" />
+    <state width="1237" height="58" key="GridCell.Tab.0.bottom" timestamp="1608991832958">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="58" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1608991832958" />
+    <state width="1237" height="58" key="GridCell.Tab.0.center" timestamp="1608991832958">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="58" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1608991832958" />
+    <state width="1237" height="58" key="GridCell.Tab.0.left" timestamp="1608991832958">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="58" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1608991832958" />
+    <state width="1237" height="58" key="GridCell.Tab.0.right" timestamp="1608991832958">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="58" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1608991832958" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1607114468683">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1607114468683" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1607114468683">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1607114468683" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1607114468683">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1607114468683" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1607114468683">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1607114468683" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1608991304041">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1608991304041" />
+    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1608990567324">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1608990567324" />
+    <state x="341" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1608986243831">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="341" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1608986243831" />
+    <state x="421" y="146" key="git4idea.history.wholeTree.VcsStructureChooser" timestamp="1608987929651">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="146" key="git4idea.history.wholeTree.VcsStructureChooser/0.0.1280.680@0.0.1280.680" timestamp="1608987929651" />
+    <state x="618" y="-3" width="670" height="676" key="search.everywhere.popup" timestamp="1606688784270">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="618" y="-3" width="670" height="676" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1606688784270" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/projet1$Menu.coverage" NAME="Menu Coverage Results" MODIFIED="1608984183960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/projet1$Elbow_graph.coverage" NAME="Elbow_graph Coverage Results" MODIFIED="1607073172155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/projet1$main.coverage" NAME="main Coverage Results" MODIFIED="1607091885656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/projet1$testtt.coverage" NAME="testtt Coverage Results" MODIFIED="1608982499120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/projet1$Tkinter_graphe.coverage" NAME="Cluster_graph Coverage Results" MODIFIED="1607072686724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/projet1$Silhouette__1_.coverage" NAME="Silhouette (1) Coverage Results" MODIFIED="1607075939659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/projet1$tst.coverage" NAME="tst Coverage Results" MODIFIED="1607112314956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/projet1$Elbow_graph__1_.coverage" NAME="Elbow_graph (1) Coverage Results" MODIFIED="1607075855390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/projet1$Cluster_graph.coverage" NAME="Cluster_graph Coverage Results" MODIFIED="1607075904849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/projet1$Bouldin.coverage" NAME="Bouldin Coverage Results" MODIFIED="1607076023648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/projet1$Tkinter.coverage" NAME="Tkinter Coverage Results" MODIFIED="1606738719773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/projet1$Silhouette.coverage" NAME="Silhouette Coverage Results" MODIFIED="1607075121787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Scripts" />
+    <SUITE FILE_PATH="coverage/projet1$test.coverage" NAME="test Coverage Results" MODIFIED="1607096882317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Stage_Code$Menu.coverage" NAME="Menu Coverage Results" MODIFIED="1608986613941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/projet1$Tkinter_Data.coverage" NAME="Tkinter_Data Coverage Results" MODIFIED="1607094783064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
